@@ -1,0 +1,2 @@
+# LearningRust
+Just learning Rust
